@@ -1,5 +1,7 @@
 # 📛 DATABOX — RAG System with Prompt Injection Demonstration
 
+![](https://i.imgur.com/67HPlXw.png)
+
 A Retrieval-Augmented Generation (RAG) system built with SQLite FTS5 that demonstrates prompt injection vulnerabilities and security hardening techniques. Perfect for security research, AI safety education, and understanding RAG system attack vectors.
 
 [![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)](https://nodejs.org/)
